@@ -1,4 +1,4 @@
-# Política de Uso Aceitável
+# [📄] - Política de Uso Aceitável || [PdUA]
 
 ---
 **Data da Última Atualização:** `Agosto de 2025`.
