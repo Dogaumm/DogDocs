@@ -13,8 +13,10 @@ DogBot nasceu como um projeto de aprendizado e evoluiu para uma solução comple
 
 ### ✨ Funcionalidades Principais
 
-*   **Economia Completa:** Comandos como `$daily`, `$balance`, jogos como `$jackpot`, e um sistema de loja por servidor.
-*   **Moderação Avançada:** Sistema de `$lockdown` com múltiplos níveis para proteger seu servidor contra raids.
+*   **Prefixo:** `$`
+
+*   **Economia Completa:** Comandos como `daily`, `balance`, jogos como `jackpot`, e um sistema de loja por servidor.
+*   **Moderação Avançada:** Sistema de `lockdown` com múltiplos níveis para proteger seu servidor contra raids.
 *   **Logs Detalhados:** Um setup configurável para registrar tudo, desde mensagens deletadas a atividade em canais de voz.
 *   **E Muito Mais:** Comandos de utilidade, um construtor de embeds e funcionalidades de administração para o dono do bot.
 
