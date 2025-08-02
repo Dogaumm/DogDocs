@@ -28,7 +28,7 @@ DogBot nasceu como um projeto de aprendizado e evoluiu para uma solução comple
 
 Para uma lista detalhada de todos os comandos e para ler nossas políticas, por favor, veja a nossa documentação em Português-BR.
 
-*   **[Documentação Completa (PT-BR)](./Doc-BR/Topicos.md)** (COMING SOON)
+*   **[Documentação Completa (PT-BR)](./Doc-BR/Commands-BR/Topicos.md)** (COMING SOON)
 *   **[Políticas Completa (PT-BR)](./Doc-BR/Policies-BR/Topicos.md)**
 
 ### 📜 Licença
