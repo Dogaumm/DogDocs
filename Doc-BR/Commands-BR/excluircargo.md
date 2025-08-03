@@ -1,7 +1,7 @@
 # Comando Administrativo
 
 ## Nome do comando
-> criarcargo
+> excluircargo
 
 ## Descrição
 > Este comando é uma boa opção para criar cargos, ele tem suporte para criar um ou vários cargos

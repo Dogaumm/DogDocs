@@ -1,11 +1,14 @@
 # Tópicos de Comandos do DogBot
 
-Bem-vindo à documentação completa de todos os comandos disponíveis no DogBot!
+Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
-**Prefixo Padrão:** `$`
+> [!NOTE]
+> **Prefixo Padrão:** `$`
 
 ---
 
-### Navegação Rápida
+## Navegação Rápida
 
-*   []()
+### Comandos Administrativos
+* [Criar Cargo](criarcargo.md)
+* [Excluir Cargo](excluircargo.md)
