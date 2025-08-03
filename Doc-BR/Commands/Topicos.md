@@ -27,5 +27,6 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 * [Criar Canal de Voz](criarcanalvoz.md)
 ---
 * [Nome Servidor](nomeservidor.md)
+* [ícone Servidor](iconeservidor.md)
 ---
 * [Clear | Purge](clear.md)

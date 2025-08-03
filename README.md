@@ -7,30 +7,30 @@ Seu assistente completo para gerenciamento, moderação e diversão no Discord.
 
 ---
 
-### Sobre o DogBot
+## Sobre o DogBot
 
-DogBot nasceu como um projeto de aprendizado e evoluiu para uma solução completa de bot para Discord. Equipado com um poderoso sistema de economia, ferramentas de moderação de ponta como Lockdown e um sistema de logs detalhado, ele visa ser o único bot que seu servidor vai precisar.
+> DogBot nasceu como um projeto de aprendizado e evoluiu para uma solução completa de bot para Discord. Equipado com um poderoso sistema de economia, ferramentas de moderação de ponta como Lockdown e um sistema de logs detalhado, ele visa ser o único bot que seu servidor vai precisar.
 
-### ✨ Funcionalidades Principais
-
-*   **Prefixo:** `$`
+### Funcionalidades Principais
+> [!NOTE]
+> **Prefixo:** `$`
 
 *   **Economia Completa:** Comandos como `daily`, `balance`, jogos como `jackpot`, e um sistema de loja por servidor.
 *   **Moderação Avançada:** Sistema de `lockdown` com múltiplos níveis para proteger seu servidor contra raids.
 *   **Logs Detalhados:** Um setup configurável para registrar tudo, desde mensagens deletadas a atividade em canais de voz.
 *   **E Muito Mais:** Comandos de utilidade, um construtor de embeds e funcionalidades de administração para o dono do bot.
 
-### ➕ Como Adicionar o DogBot
+### Como Adicionar o DogBot
 
 > **[Clique aqui para adicionar o DogBot ao seu servidor!](https://discordapp.com/oauth2/authorize?client_id=1318267258912505926)**
 
-### 📚 Comandos e Políticas
+### Comandos e Políticas
 
 Para uma lista detalhada de todos os comandos e para ler nossas políticas, por favor, veja a nossa documentação em Português-BR.
 
-*   **[Documentação Completa (PT-BR)](./Doc-BR/Commands-BR/Topicos.md)** (COMING SOON)
-*   **[Políticas Completa (PT-BR)](./Doc-BR/Policies-BR/Topicos.md)**
+*   **[Documentação Completa (PT-BR)](./Doc-BR/Commands/Topicos.md)**
+*   **[Políticas Completa (PT-BR)](./Doc-BR/Policies/Topicos.md)**
 
-### 📜 Licença
+## Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo [MIT License](./LICENSE) para mais detalhes.
