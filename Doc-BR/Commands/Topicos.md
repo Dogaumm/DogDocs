@@ -17,16 +17,21 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ### Comandos de Gerenciamento
 > * [Criar Cargo](criarcargo.md)
 > * [Excluir Cargo](excluircargo.md)
+> * [Editar Cargo](editarcargo.md)
 
 > * [Criar Categoria](criarcategoria.md)
 > * [Excluir Categoria](excluircategoria.md)
 
 > * [Criar Canal](criarcanal.md)
 > * [Excluir Canal](excluircanal.md)
+> * [Canal Info](canalinfo.md)
 
 > * [Criar Canal de Voz](criarcanalvoz.md)
 
 > * [Nome Servidor](nomeservidor.md)
-> * [ícone Servidor](iconeservidor.md)
+> * [Ícone Servidor](iconeservidor.md)
+
+> * [Lock](lock.md)
+> * [Unlock](unlock.md)
 
 > * [Clear | Purge](clear.md)

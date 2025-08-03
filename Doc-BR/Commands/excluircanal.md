@@ -6,6 +6,9 @@
 ## Descrição
 > Este comando é uma boa opção para excluir canais, ele tem suporte para excluir um ou vários canais.
 
+> [!NOTE]
+> Caso tenha mais de dois canais com o mesmo nome, eles **TAMBÉM** serão excluídos.
+
 ## Argumentos
 - nome - `Obrigatório` - Nome do canal.
 

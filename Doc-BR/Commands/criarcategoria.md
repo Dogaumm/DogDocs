@@ -4,10 +4,10 @@
 > criarcategoria
 
 ## Descrição
-> Este comando é uma boa opção para criar categorias, ele tem suporte para criar um ou vários categorias.
+> Este comando é uma boa opção para criar categorias, ele tem suporte para criar um ou várias categorias.
 
 ## Argumentos
-- nome - `Obrigatório` - Nome do categoria.
+- nome - `Obrigatório` - Nome da categoria.
 
 ## Permissões necessárias
 > [!NOTE]
@@ -16,4 +16,4 @@
 ## Exemplo
 > `$criarcategoria nome="General"`
 
-> `$criarcategoria nome="General" | nome="Voice Channels"`
+> `$criarcategoria nome="General" | nome="Voice Channels" | [...]`

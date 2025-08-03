@@ -19,6 +19,6 @@
 ## Exemplo
 > `$criarcargo nome="Moderador"`
 
-> `$criarcargo nome="Moderador" hex=#ffd700 vis=true`
+> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | [...]`
 
-> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | nome="Admin" vis=true | nome="Owner"`
+> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | nome="Admin" vis=true | nome="Owner" | [...]`
