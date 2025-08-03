@@ -13,7 +13,7 @@
 - perm - `Opcional` - Setaria permissões para tal cargo, os tipos são: 'Mod', 'Adm', 'Leitura', 'Tudo', 'Escrever'
 
 ## Permissões necessárias
-> [!INFORMATION]
+> [!NOTE]
 > Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`
 
 ## Exemplo

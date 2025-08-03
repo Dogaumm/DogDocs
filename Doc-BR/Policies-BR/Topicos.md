@@ -1,7 +1,7 @@
 # [📄] - Tópicos de Políticas || [TdP]
 
 ## Política de Privacidade
-> [!INFORMATION]
+> [!NOTE]
 > [Ir](./Privacidade.md)
 
  - 1. [Dados que Coletamos](./Privacidade.md/#dados-que-coletamos)
@@ -15,7 +15,7 @@
  - 5. [Contato](./Privacidade.md/#contato)
 
 ## Política de Termos
-> [!INFORMATION]
+> [!NOTE]
 > [Ir](./Termos.md)
 
  - 1. [Definições](./Termos.md/#definições)
@@ -29,5 +29,5 @@
  - 5. [Contato](./Termos.md/#contato)
 
 ## Política de Uso Aceitável
-> [!INFORMATION]
+> [!NOTE]
 > [Ir](./Uso%20Aceitável.md)
