@@ -1,10 +1,10 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> excluircategria
+> excluircategoria
 
 ## Descrição
-> Este comando exclui categorias, ele tem suporte para deletar um ou vários categorias.
+> Este comando exclui categorias, ele tem suporte para deletar um ou várias categorias.
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do categoria.
