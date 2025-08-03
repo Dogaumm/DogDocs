@@ -18,6 +18,7 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 * [Criar Cargo](criarcargo.md)
 * [Excluir Cargo](excluircargo.md)
 * [Criar Canal](criarcanal.md)
+* [Excluir Canal](excluircanal.md)
 
 * [Criar Categoria](criarcategoria.md)
 
