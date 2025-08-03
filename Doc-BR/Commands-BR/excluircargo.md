@@ -14,8 +14,6 @@
 > Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`
 
 ## Exemplo
-> Básico:
-`$excluircargo nome="Moderador"`
+> `$excluircargo nome="Moderador"`
 
-> Múltiplos cargos:
-`$excluircargo nome="Moderador" | nome="Admin" | nome="Owner"`
+> `$excluircargo nome="Moderador" | nome="Admin" | nome="Owner"`

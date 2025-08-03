@@ -11,6 +11,9 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 ## Navegação Rápida
 
+### Comandos de Configuração de Bot
+* [Set Prefix](setprefix.md)
+
 ### Comandos Administrativos
 * [Criar Cargo](criarcargo.md)
 * [Excluir Cargo](excluircargo.md)

@@ -17,11 +17,8 @@
 > Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`
 
 ## Exemplo
-> Básico:
-`$criarcargo nome="Moderador"`
+> `$criarcargo nome="Moderador"`
 
-> Com outros:
-`$criarcargo nome="Moderador" hex=#ffd700 vis=true`
+> `$criarcargo nome="Moderador" hex=#ffd700 vis=true`
 
-> Múltiplos cargos:
-`$criarcargo nome="Moderador" hex=#ffd700 | nome="Admin" vis=true | nome="Owner"`
+> `$criarcargo nome="Moderador" hex=#ffd700 | nome="Admin" vis=true | nome="Owner"`
