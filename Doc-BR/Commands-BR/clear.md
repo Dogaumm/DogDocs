@@ -1,4 +1,4 @@
-# Comando Administrativo
+# Comando de Gerenciamento
 
 ## Nome do comando
 > clear | purge
