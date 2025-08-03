@@ -17,3 +17,5 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ### Comandos Administrativos
 * [Criar Cargo](criarcargo.md)
 * [Excluir Cargo](excluircargo.md)
+* [Criar Canal](criarcanal.md)
+* [Clear | Purge](clear.md)

@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Administrator | Administrador`
+> Para usar este comando, você deve ter permissão de `Administrator | Administrador`.
 
 ## Exemplo
 > `$setprefix <`

@@ -4,14 +4,14 @@
 > excluircargo
 
 ## Descrição
-> Este comando exclui cargos, ele tem suporte para deletar um ou vários cargos
+> Este comando exclui cargos, ele tem suporte para deletar um ou vários cargos.
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do cargo.
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`
+> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`.
 
 ## Exemplo
 > `$excluircargo nome="Moderador"`
