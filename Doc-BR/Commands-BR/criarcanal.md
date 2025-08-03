@@ -7,8 +7,8 @@
 > Este comando é uma boa opção para criar canais, ele tem suporte para criar um ou vários canais.
 
 ## Argumentos
-- nome - `Obrigatório` - Nome do cargo.
-- categoria - `Opcional` - Categoria em que o cargo vai ser criado.
+- nome - `Obrigatório` - Nome do canal.
+- categoria - `Opcional` - Categoria em que o canal vai ser criado.
 
 ## Permissões necessárias
 > [!NOTE]
@@ -17,6 +17,6 @@
 ## Exemplo
 > `$criarcanal nome="Comandos"`
 
-> `$criarnal nome="Comandos" | nome="Chat Geral"`
+> `$criarcanal nome="Comandos" | nome="Chat Geral"`
 
-> `$criarcargo nome="Comandos" | nome="Chat Geral | categoria="General"`
+> `$criarcanal nome="Comandos" | nome="Chat Geral | categoria="General"`
