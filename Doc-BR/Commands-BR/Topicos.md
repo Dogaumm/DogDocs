@@ -2,8 +2,10 @@
 
 Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
+
 > [!NOTE]
 > **Prefixo Padrão:** `$`
+> Todos os comandos do documento estarão usando este prefixo.
 
 ---
 

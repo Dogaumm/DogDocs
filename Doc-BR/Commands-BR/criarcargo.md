@@ -24,4 +24,4 @@
 `$criarcargo nome="Moderador" hex=#ffd700 vis=true`
 
 > Múltiplos cargos:
-`$criarcargo nome="Moderador" hex=#ffd700 | nome="Admin" | nome="Owner"`
+`$criarcargo nome="Moderador" hex=#ffd700 | nome="Admin" vis=true | nome="Owner"`
