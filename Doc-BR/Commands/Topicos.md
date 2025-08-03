@@ -12,21 +12,21 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ## Navegação Rápida
 
 ### Comandos de Configuração de Bot
-* [Set Prefix](setprefix.md)
+> [Set Prefix](setprefix.md)
 
 ### Comandos de Gerenciamento
-> * [Criar Cargo](criarcargo.md)
-> * [Excluir Cargo](excluircargo.md)
+> [Criar Cargo](criarcargo.md)
+> [Excluir Cargo](excluircargo.md)
 
-> * [Criar Categoria](criarcategoria.md)
-> * [Excluir Categoria](excluircategoria.md)
+> [Criar Categoria](criarcategoria.md)
+> [Excluir Categoria](excluircategoria.md)
 
-> * [Criar Canal](criarcanal.md)
-> * [Excluir Canal](excluircanal.md)
+> [Criar Canal](criarcanal.md)
+> [Excluir Canal](excluircanal.md)
 
-> * [Criar Canal de Voz](criarcanalvoz.md)
+> [Criar Canal de Voz](criarcanalvoz.md)
 
-> * [Nome Servidor](nomeservidor.md)
-> * [ícone Servidor](iconeservidor.md)
+> [Nome Servidor](nomeservidor.md)
+> [ícone Servidor](iconeservidor.md)
 
-> * [Clear | Purge](clear.md)
+> [Clear | Purge](clear.md)
