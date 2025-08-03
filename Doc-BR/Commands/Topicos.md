@@ -17,7 +17,7 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ### Comandos de Gerenciamento
 * [Criar Cargo](criarcargo.md)
 * [Excluir Cargo](excluircargo.md)
--
+--
 * [Criar Categoria](criarcategoria.md)
 * [Excluir Categoria](excluircategoria.md)
 -
