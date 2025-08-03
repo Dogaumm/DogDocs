@@ -10,7 +10,6 @@
 - nome - `Obrigatório` - Nome do cargo.
 - hex - `Opcional` - Cor do cargo ('#')
 - vis - `Opcional` - Visibilidade ao cargo, ou, separar um cargo de outros membros, use "true/false".
-- perm - `Opcional` - Setaria permissões para tal cargo, os tipos são: 'Mod', 'Adm', 'Leitura', 'Tudo', 'Escrever'.
 
 ## Permissões necessárias
 > [!NOTE]
@@ -19,6 +18,6 @@
 ## Exemplo
 > `$criarcargo nome="Moderador"`
 
-> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | [...]`
+> `$criarcargo nome="Moderador" hex=#ffd700 vis=true`
 
-> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | nome="Admin" vis=true | nome="Owner" | [...]`
+> `$criarcargo nome="Moderador" hex=#ffd700 vis=true | nome="Admin" vis=true | nome="Owner"`

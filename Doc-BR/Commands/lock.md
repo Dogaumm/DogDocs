@@ -18,4 +18,4 @@
 
 > `$lock #chat-geral`
 
-> `$lock #chat-geral #comandos [...]`
+> `$lock #chat-geral #comandos`

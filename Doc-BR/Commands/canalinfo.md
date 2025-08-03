@@ -17,5 +17,3 @@
 > `$canalinfo`
 
 > `$canalinfo #chat-geral`
-
--# Ele aguenta somente um canal.

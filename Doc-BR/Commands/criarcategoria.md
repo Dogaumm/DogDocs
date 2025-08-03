@@ -16,4 +16,4 @@
 ## Exemplo
 > `$criarcategoria nome="General"`
 
-> `$criarcategoria nome="General" | nome="Voice Channels" | [...]`
+> `$criarcategoria nome="General" | nome="Voice Channels"`

@@ -17,6 +17,6 @@
 ## Exemplo
 > `$criarcanalvoz nome="Voice"`
 
-> `$criarcanalvoz nome="Voice" | nome="Voice ¹" | [...]`
+> `$criarcanalvoz nome="Voice" | nome="Voice ¹"`
 
-> `$criarcanalvoz nome="Voice" | nome="Voice ¹" | [...] | categoria="Voice Channels"`
+> `$criarcanalvoz nome="Voice" | nome="Voice ¹" | categoria="Voice Channels"`
