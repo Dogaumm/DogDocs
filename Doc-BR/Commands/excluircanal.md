@@ -8,6 +8,7 @@
 
 > [!NOTE]
 > Caso tenha mais de dois canais com o mesmo nome, eles **TAMBÉM** serão excluídos.
+> Este comando também consegue excluir canais de Palco, Fórum e Anúncio!
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do canal.

@@ -1,10 +1,13 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> criarcanal
+> criarcanalforum
 
 ## Descrição
-> Este comando é uma boa opção para criar canais, ele tem suporte para criar um ou vários canais.
+> Este comando é uma boa opção para criar canais de fórum, ele tem suporte para criar um ou vários canais.
+
+> [!NOTE]
+> Para usar este comando, você precisa ter a opção "`Habilitar Comunidade`" ativa!
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do canal.
@@ -15,8 +18,6 @@
 > Para usar este comando, você deve ter permissão de `Manage Channels | Gerenciar Canais`.
 
 ## Exemplo
-> `$criarcanal nome="Comandos"`
+> `$criarcanalforum nome="Forum"`
 
-> `$criarcanal nome="Comandos" | nome="Chat Geral"`
-
-> `$criarcanal nome="Comandos" | nome="Chat Geral" | categoria="General"`
+> `$criarcanalforum nome="Forum" | nome="Bugs" | categoria="Report"`

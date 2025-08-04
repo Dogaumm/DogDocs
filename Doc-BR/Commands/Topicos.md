@@ -19,6 +19,9 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Excluir Cargo](excluircargo.md)
 > * [Editar Cargo](editarcargo.md)
 
+> * [Set All](setall.md)
+> * [Remove All](removeall.md)
+
 > * [Criar Categoria](criarcategoria.md)
 > * [Excluir Categoria](excluircategoria.md)
 
@@ -27,6 +30,9 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Canal Info](canalinfo.md)
 
 > * [Criar Canal de Voz](criarcanalvoz.md)
+> * [Criar Canal de Anúncio](criarcanalanuncio.md)
+> * [Criar Canal de Fórum](criarcanalforum.md)
+> * [Criar Canal de Palco](criarcanalpalco.md)
 
 > * [Nome Servidor](nomeservidor.md)
 > * [Ícone Servidor](iconeservidor.md)
