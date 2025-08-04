@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> canalinfo
+> **canalinfo**
 
 ## Descrição
 > Este comando pega as informações do(s) canal(is), resultando em: Nome do canal, Id do canal, Nome da categoria e Id da categoria.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Messages | Gerenciar Mensagens`.
+> Para usar este comando, você deve ter permissão de **`Manage Messages | Gerenciar Mensagens`**.
 
 ## Exemplo
 > `$canalinfo`
