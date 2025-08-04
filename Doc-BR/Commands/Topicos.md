@@ -34,6 +34,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Criar Canal de Fórum](criarcanalforum.md)
 > * [Criar Canal de Palco](criarcanalpalco.md)
 
+> * [Criar Webhook](criarwebhook.md)
+
 > * [Nome Servidor](nomeservidor.md)
 > * [Ícone Servidor](iconeservidor.md)
 

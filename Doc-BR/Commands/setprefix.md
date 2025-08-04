@@ -1,7 +1,7 @@
 # Comando de Configuração do Bot
 
 ## Nome do comando
-> setprefix
+> **setprefix**
 
 ## Descrição
 > Modifica o prefixo do bot.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Administrator | Administrador`.
+> Para usar este comando, você deve ter permissão de **`Administrator | Administrador`**.
 
 ## Exemplo
 > `$setprefix <`

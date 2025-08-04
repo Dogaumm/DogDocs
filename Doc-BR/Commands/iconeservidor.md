@@ -1,7 +1,7 @@
 # Comando de Configuração do Bot
 
 ## Nome do comando
-> iconeservidor
+> **iconeservidor**
 
 ## Descrição
 > Modifica o ícone do servidor.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Guild | Gerenciar Servidor`.
+> Para usar este comando, você deve ter permissão de **`Manage Guild | Gerenciar Servidor`**.
 
 ## Exemplo
 > `$iconeservidor url="https://exemplo.com/imagem.png"`

@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> editarcargo
+> **editarcargo**
 
 ## Descrição
 > Este comando é uma boa opção para editar cargos, ele tem suporte para editar um ou vários cargos.
@@ -17,7 +17,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`
+> Para usar este comando, você deve ter permissão de **`Manage Roles | Gerenciar Cargos`**.
 
 ## Exemplo
 > `$editarcargo nome="Moderador" novo="[M] | Moderador"`

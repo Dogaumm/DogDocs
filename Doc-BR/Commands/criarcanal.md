@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> criarcanal
+> **criarcanal**
 
 ## Descrição
 > Este comando é uma boa opção para criar canais, ele tem suporte para criar um ou vários canais.
@@ -12,7 +12,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Channels | Gerenciar Canais`.
+> Para usar este comando, você deve ter permissão de **`Manage Channels | Gerenciar Canais`**.
 
 ## Exemplo
 > `$criarcanal nome="Comandos"`

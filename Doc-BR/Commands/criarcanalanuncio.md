@@ -1,13 +1,13 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> criarcanalanuncio
+> **criarcanalanuncio**
 
 ## Descrição
 > Este comando é uma boa opção para criar canais de anúncio, ele tem suporte para criar um ou vários canais.
 
 > [!NOTE]
-> Para usar este comando, você precisa ter a opção "`Habilitar Comunidade`" ativa!
+> Para usar este comando, você precisa ter a opção **"`Habilitar Comunidade`"** ativa!
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do canal.
@@ -15,7 +15,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Channels | Gerenciar Canais`.
+> Para usar este comando, você deve ter permissão de **`Manage Channels | Gerenciar Canais`**.
 
 ## Exemplo
 > `$criarcanalanuncio nome="Announcement"`

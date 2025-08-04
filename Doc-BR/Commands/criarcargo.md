@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> criarcargo
+> **criarcargo**
 
 ## Descrição
 > Este comando é uma boa opção para criar cargos, ele tem suporte para criar um ou vários cargos.
@@ -13,7 +13,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`.
+> Para usar este comando, você deve ter permissão de **`Manage Roles | Gerenciar Cargos`**.
 
 ## Exemplo
 > `$criarcargo nome="Moderador"`

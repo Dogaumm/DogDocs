@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> excluircanal
+> **excluircanal**
 
 ## Descrição
 > Este comando é uma boa opção para excluir canais, ele tem suporte para excluir um ou vários canais.
@@ -15,7 +15,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Channels | Gerenciar Canais`
+> Para usar este comando, você deve ter permissão de **`Manage Channels | Gerenciar Canais`**.
 
 ## Exemplo
 > `$excluircanal nome="Comandos"`

@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> removeall
+> **removeall**
 
 ## Descrição
 > Este comando faz você tirar tal cargo para todos os membros do servidor.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`.
+> Para usar este comando, você deve ter permissão de **`Manage Roles | Gerenciar Cargos`**.
 
 ## Exemplo
 > `$removeall @Member`

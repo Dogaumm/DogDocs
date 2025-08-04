@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> setall
+> **setall**
 
 ## Descrição
 > Este comando faz você dar tal cargo para todos membros do servidor.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Roles | Gerenciar Cargos`.
+> Para usar este comando, você deve ter permissão de **`Manage Roles | Gerenciar Cargos`**.
 
 ## Exemplo
 > `$setall @Member`

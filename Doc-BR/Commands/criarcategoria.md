@@ -1,7 +1,7 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> criarcategoria
+> **criarcategoria**
 
 ## Descrição
 > Este comando é uma boa opção para criar categorias, ele tem suporte para criar um ou várias categorias.
@@ -11,7 +11,7 @@
 
 ## Permissões necessárias
 > [!NOTE]
-> Para usar este comando, você deve ter permissão de `Manage Channels | Gerenciar Canais`
+> Para usar este comando, você deve ter permissão de **`Manage Channels | Gerenciar Canais`**.
 
 ## Exemplo
 > `$criarcategoria nome="General"`
