@@ -28,8 +28,8 @@ Seu assistente completo para gerenciamento, moderação e diversão no Discord.
 
 Para uma lista detalhada de todos os comandos e para ler nossas políticas, por favor, veja a nossa documentação em Português-BR.
 
-*   **[Documentação Completa (PT-BR)](./Doc-BR/Commands/Topicos.md)**
-*   **[Políticas Completa (PT-BR)](./Doc-BR/Policies/Topicos.md)**
+*   **[Documentação Completa (PT-BR)](./BR/Command/Topicos.md)**
+*   **[Políticas Completa (PT-BR)](./BR/Policy/Topicos.md)**
 
 ## Licença
 
