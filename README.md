@@ -1,4 +1,4 @@
-# DogBot 🐶
+# DogBot
 
 Seu assistente completo para gerenciamento, moderação e diversão no Discord.
 
@@ -18,6 +18,7 @@ Seu assistente completo para gerenciamento, moderação e diversão no Discord.
 *   **Economia Completa:** Comandos como `daily`, `balance`, jogos como `jackpot`, e um sistema de loja por servidor.
 *   **Moderação Avançada:** Sistema de `lockdown` com múltiplos níveis para proteger seu servidor contra raids.
 *   **Logs Detalhados:** Um setup configurável para registrar tudo, desde mensagens deletadas a atividade em canais de voz.
+*   **IA Integrada:** Agora o bot tem suporte de IA, IA de texto e IA de imagem!
 *   **E Muito Mais:** Comandos de utilidade, um construtor de embeds e funcionalidades de administração para o dono do bot.
 
 ### Como Adicionar o DogBot
@@ -28,8 +29,8 @@ Seu assistente completo para gerenciamento, moderação e diversão no Discord.
 
 Para uma lista detalhada de todos os comandos e para ler nossas políticas, por favor, veja a nossa documentação em Português-BR.
 
-*   **[Documentação Completa (PT-BR)](./BR/Command/Topicos.md)**
-*   **[Políticas Completa (PT-BR)](./BR/Policy/Topicos.md)**
+*   **[Documentação - PT-BR](./BR/Command/Topicos.md)**
+*   **[Políticas - PT-BR](./BR/Policy/Topicos.md)**
 
 ## Licença
 
