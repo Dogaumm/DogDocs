@@ -7,7 +7,7 @@
 > Este comando serve para tirar o cargo de "ADV" (Punição) do membro.
 
 ## Argumentos
-- menção - `Obrigatório` - Membro em que será aplicado a punição.
+- menção - `Obrigatório` - Membro em que a punição será removida.
 
 ## Permissões necessárias
 > [!NOTE]

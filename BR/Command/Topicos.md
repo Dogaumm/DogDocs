@@ -49,5 +49,9 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Adv](adv.md)
 > * [Unadv](unadv.md)
 
+> * [Kick](kick.md)
+> * [Ban](ban.md)
+> * [Unban](unban.md)
+
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
