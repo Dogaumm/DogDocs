@@ -57,6 +57,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Mute](mute.md)
 > * [Unmute](unmute.md)
 
+> * [Tags Fórum](tagsforum.md)
+
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
 
