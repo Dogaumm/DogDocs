@@ -67,5 +67,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ### Comandos Secundários
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)
+> * [Bot Info](botinfo.md)
 
 > * [Invite](invite.md)
+
+> * [Ping](ping.md)
