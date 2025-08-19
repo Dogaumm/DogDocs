@@ -68,7 +68,15 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)
 > * [Bot Info](botinfo.md)
+> * [Help Bots](helpbots.md)
 
 > * [Invite](invite.md)
 
 > * [Ping](ping.md)
+
+> * [Traduzir](traduzir.md)
+
+### Sistema de Antibots
+> * [Antibot](antibot.md)
+
+> * [Permbot | Allowbot](allowbot.md)

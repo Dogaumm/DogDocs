@@ -9,10 +9,6 @@
 ## Argumentos
 - canal - `Opcional` - Mencione o canal para pegar as informações (Caso não mencionado, as informações do canal será aonde o comando foi utilizado).
 
-## Permissões necessárias
-> [!NOTE]
-> Para usar este comando, você deve ter permissão de **`Manage Messages | Gerenciar Mensagens`**.
-
 ## Exemplo
 > `$canalinfo`
 

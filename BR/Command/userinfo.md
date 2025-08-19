@@ -7,7 +7,7 @@
 > Este comando serve para ver o perfil e informações do membro.
 
 ## Argumentos
-- menção - `Obrigatório` - Membro que será banido.
+- menção - `Obrigatório` - Membro que queira ver as informações.
 
 ## Exemplo
 > `$userinfo @user`
