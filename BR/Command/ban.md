@@ -18,5 +18,4 @@
 
 > `$ban @user @user2`
 
-[Image](../Images/test.png)
-(../Images/test.png)
+![Image](../Images/test.png)
