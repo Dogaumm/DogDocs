@@ -4,12 +4,12 @@
 > **morse**
 
 ## Descrição
-> Este comando consegue transformar e traduzir cifras/a linguagem de programação em Morse.
+> Este comando consegue transformar e traduzir cifras em Morse.
 
 ## Argumentos
-- texto - `Obrigatório` - É obrigatório caso queira transformar em Brainfuck.
+- texto - `Obrigatório` - É obrigatório caso queira transformar em Morse.
 
 ## Exemplo
-> `$morse oi, tudo bem?`
+> `$morse -t oi, tudo bem?`
 
-> `$morse -d --- .. --..-- / - ..- -.. --- / -... . -- ..--..`
+> `$morse --- .. --..-- / - ..- -.. --- / -... . -- ..--..`

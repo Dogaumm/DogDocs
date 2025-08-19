@@ -93,6 +93,21 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Dic Brainfuck](dicbrainfuck.md)
 > * [Guide Brainfuck](guidebrainfuck.md)
 
+> * [Morse](morse.md) - Código Morse
+> * [Ccesar](ccesar.md) - Cifra de Cesar
+> * [Vig](vig.md) - Criptografia de Vigenère
+> * [Poli](poli.md) - Criptografia de Substituição Polialfabética
+> * [Posi](posi.md) - Criptografia de Transposição
+> * [Binário](binario.md) - Código Binário
+> * [ASCII](ascii.md) - Código ASCII
+> * [Bs64](bs64.md) - Base64
+> * [PLFair](plfair.md) - Playfair
+> * [Bacon](bacon.md) - Bacon
+> * [Hill](hill.md) - Hill
+> * [Braille](braille.md) - Braille
+> * [Gronsfeld](gronsfeld.md) - Gronsfeld
+> * [Tap](tap.md) - Tap
+
 ### Sistema de Antibots
 > * [Antibot](antibot.md)
 
