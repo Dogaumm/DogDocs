@@ -4,11 +4,12 @@
 > **antibot**
 
 ## Descrição
-> Este comando irá ativar a proteção contra bots, ao ativar, todo bot que você por no seu servidor, será **EXPULSO IMEDIATAMENTE**
+> Este comando irá ativar a proteção contra bots, ao ativar, todo bot que você por no seu servidor, será **EXPULSO IMEDIATAMENTE**.
 
 > [!NOTE]
-> Use o comando novamente para a proteção parar
-> * Lembre-se de ativar novamente para evitar riscos
+> Use o comando novamente para a proteção parar.
+> * Lembre-se de ativar novamente para evitar riscos.
+> * Os bots que já estão no servidor não são removidos.
 
 ## Permissões necessárias
 > [!NOTE]

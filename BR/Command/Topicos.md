@@ -79,4 +79,6 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 ### Sistema de Antibots
 > * [Antibot](antibot.md)
 
-> * [Permbot | Allowbot](allowbot.md)
+> * [Allow Perm Bot | Perm Bot](allowpermbot.md)
+> * [Remove Perm Bot | Disallow Perm Bot](removepermbot.md)
+> * [Clear Perm Bot | Clear Allow List](clearpermbot.md)
