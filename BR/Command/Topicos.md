@@ -22,6 +22,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Set All](setall.md)
 > * [Remove All](removeall.md)
 
+> * [Set Nick](setnick.md)
+
 > * [Criar Categoria](criarcategoria.md)
 > * [Excluir Categoria](excluircategoria.md)
 
@@ -43,3 +45,6 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Unlock](unlock.md)
 
 > * [Clear | Purge](clear.md)
+
+### Comandos de Entretenimento
+> * [Color Preview](colorpreview.md)
