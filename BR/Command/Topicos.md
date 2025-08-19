@@ -2,7 +2,6 @@
 
 Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
-
 > [!NOTE]
 > **Prefixo Padrão:** `$`
 > * Todos os comandos do documento estarão usando este prefixo.
@@ -60,7 +59,10 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
+
 > * [Short Url](shorturl.md)
+
+> * [Coinflip](coinflip.md)
 
 ### Comandos Secundários
 > * [User Info](userinfo.md)
