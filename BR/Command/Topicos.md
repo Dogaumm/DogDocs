@@ -52,6 +52,7 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Kick](kick.md)
 > * [Ban](ban.md)
+> * [Ban Info](baninfo.md)
 > * [Unban](unban.md)
 
 > * [Mute](mute.md)
@@ -59,3 +60,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
+> * [Short Url](shorturl.md)
+
+### Comandos Secundários
+> * [User Info](userinfo.md)
+> * [Server Info](serverinfo.md)
