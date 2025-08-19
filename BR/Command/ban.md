@@ -15,3 +15,5 @@
 
 ## Exemplo
 > `$ban @user`
+
+> `$ban @user @user2`

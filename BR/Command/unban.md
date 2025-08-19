@@ -24,3 +24,5 @@
 > `$unban nick`
 
 > `$unban nick#tag`
+
+> `$unban ID nick nick#tag`
