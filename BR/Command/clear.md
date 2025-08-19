@@ -1,8 +1,8 @@
 # Comando de Gerenciamento
 
 ## Nome do comando
-> **clear**
-> **purge**
+> * **clear**
+> * **purge**
 
 ## Descrição
 > Este comando apaga mensagens com a quantidade.

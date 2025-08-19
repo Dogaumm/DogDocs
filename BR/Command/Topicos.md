@@ -13,6 +13,7 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 ### Comandos de Configuração de Bot
 > * [Set Prefix](setprefix.md)
+> * [Help | Ajuda](help.md)
 
 ### Comandos de Gerenciamento
 > * [Criar Cargo](criarcargo.md)
