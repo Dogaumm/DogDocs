@@ -66,6 +66,12 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Calc](calc.md)
 
+> * [Jokenpo](jokenpo.md)
+
+> * [Dado](dado.md)
+
+> * [Choose](choose.md)
+
 ### Comandos Secundários
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)
@@ -77,6 +83,11 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Ping](ping.md)
 
 > * [Traduzir](traduzir.md)
+
+### Comandos de Cifras
+> * [Brainfuck](brainfuck.md)
+> * [Dic Brainfuck](dicbrainfuck.md)
+> * [Guide Brainfuck](guidebrainfuck.md)
 
 ### Sistema de Antibots
 > * [Antibot](antibot.md)
