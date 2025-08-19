@@ -19,6 +19,7 @@
 > * m = Minutos
 > * h = Horas
 > * d = Dias
+> * Tempo máximo é de 28 dias
 
 ## Permissões necessárias
 > [!NOTE]
@@ -26,3 +27,5 @@
 
 ## Exemplo
 > `$mute @user 10d`
+
+> `$mute @user @user2 28d`

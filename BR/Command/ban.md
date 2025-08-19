@@ -17,3 +17,6 @@
 > `$ban @user`
 
 > `$ban @user @user2`
+
+[Image](../Images/test.png)
+(../Images/test.png)
