@@ -64,6 +64,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Coinflip](coinflip.md)
 
+> * [Calc](calc.md)
+
 ### Comandos Secundários
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)

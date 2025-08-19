@@ -8,13 +8,13 @@
 > Com o [**Antibot**](antibot.md) ativo, você não poderá adicionar nenhum bot, mas, utilizando o comando **permbot/allowpermbot**, isso será diferente, praticamente, você colocará o bot escolhido na "Whitelist".
 
 ## Argumentos
-- ID - `Obrigatório` - ID do bot que irá entrar no servidor.
+- ID - `Obrigatório` - ID do bot que irá entrar no servidor e colocado na Whitelist.
 
 > [!NOTE]
-> Dê uma olhada neste comando, aqui, mostro uma lista de bots, junto com os respectivos IDs, links de convite e dashboard!
+> Dê uma olhada neste comando aqui, este comando mostra uma lista de bots, junto com os respectivos **IDs**, links de convite e dashboard!
 > * [Help Bots](helpbots.md)
 > * Os bots que já estão no servidor não são removidos.
-> * Depois desta alteração adicione o bot no servidor.
+> * Depois desta alteração adicione o bot ao servidor.
 
 ## Permissões necessárias
 > [!NOTE]
