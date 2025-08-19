@@ -9,10 +9,9 @@
 ## Argumentos
 - menção - `Obrigatório` - Membro que será desmutado.
 
-
 ## Permissões necessárias
 > [!NOTE]
 > Para usar este comando, você deve ter permissão de **`Mute Members | Castigar Membros`**.
 
 ## Exemplo
-> `$unmute @user"`
+> `$unmute @user`

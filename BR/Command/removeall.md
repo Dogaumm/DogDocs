@@ -4,10 +4,10 @@
 > **removeall**
 
 ## Descrição
-> Este comando faz você tirar tal cargo para todos os membros do servidor.
+> Este comando faz você tirar tal cargo de todos os membros do servidor.
 
 ## Argumentos
-- cargo - `Obrigatório` - Cargo para setar em todos.
+- cargo - `Obrigatório` - Cargo para remover dos membros.
 
 ## Permissões necessárias
 > [!NOTE]

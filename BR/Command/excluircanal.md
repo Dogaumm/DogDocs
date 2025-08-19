@@ -18,6 +18,6 @@
 > Para usar este comando, você deve ter permissão de **`Manage Channels | Gerenciar Canais`**.
 
 ## Exemplo
-> `$excluircanal nome="Comandos"`
+> `$excluircanal nome="comandos"`
 
-> `$excluircanal nome="Comandos" | nome="Chat Geral"`
+> `$excluircanal nome="comandos" | nome="chat-geral"`

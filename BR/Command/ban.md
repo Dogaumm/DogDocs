@@ -14,4 +14,4 @@
 > Para usar este comando, você deve ter permissão de **`Ban Members | Banir Membros`**.
 
 ## Exemplo
-> `$ban @user"`
+> `$ban @user`

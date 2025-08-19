@@ -15,14 +15,14 @@
 
 > [!CAUTION]
 > Tabela de tempo
-> s = Segundos
-> m = Minutos
-> h = Horas
-> d = Dias
+> * s = Segundos
+> * m = Minutos
+> * h = Horas
+> * d = Dias
 
 ## Permissões necessárias
 > [!NOTE]
 > Para usar este comando, você deve ter permissão de **`Mute Members | Castigar Membros`**.
 
 ## Exemplo
-> `$mute @user 10d"`
+> `$mute @user 10d`

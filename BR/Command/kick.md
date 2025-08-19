@@ -14,4 +14,4 @@
 > Para usar este comando, você deve ter permissão de **`Kick Members | Expulsar Membros`**.
 
 ## Exemplo
-> `$kick @user"`
+> `$kick @user`

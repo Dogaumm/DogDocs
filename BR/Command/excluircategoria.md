@@ -10,7 +10,7 @@
 > Caso tenha mais de duas categorias com o mesmo nome, eles **TAMBÉM** serão excluídos.
 
 ## Argumentos
-- nome - `Obrigatório` - Nome do categoria.
+- nome - `Obrigatório` - Nome da categoria.
 
 ## Permissões necessárias
 > [!NOTE]

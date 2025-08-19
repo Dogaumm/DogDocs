@@ -1,4 +1,4 @@
-# Comando de Configuração do Bot
+# Comando de Gerenciamento
 
 ## Nome do comando
 > **iconeservidor**

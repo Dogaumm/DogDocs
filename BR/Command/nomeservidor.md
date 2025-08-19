@@ -4,7 +4,7 @@
 > **nomeservidor**
 
 ## Descrição
-> Este permite você alterar o nome do servidor.
+> Este comando permite você alterar o nome do servidor.
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do servidor.

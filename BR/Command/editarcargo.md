@@ -4,7 +4,7 @@
 > **editarcargo**
 
 ## Descrição
-> Este comando é uma boa opção para editar cargos, ele tem suporte para editar um ou vários cargos.
+> Este comando é uma opção para editar cargos, ele tem suporte para editar um ou vários cargos.
 
 ## Argumentos
 - nome - `Obrigatório` - Nome do cargo para editar.
@@ -20,8 +20,8 @@
 > Para usar este comando, você deve ter permissão de **`Manage Roles | Gerenciar Cargos`**.
 
 ## Exemplo
-> `$editarcargo nome="Moderador" novo="[M] | Moderador"`
+> `$editarcargo nome="Moderador" novo="[M] Moderador"`
 
-> `$editarcargo nome="Moderador" novo="[M] | Moderador" hex=#ffd200`
+> `$editarcargo nome="Moderador" novo="[M] Moderador" hex=#ffd200`
 
-> `$editarcargo nome="Moderador" novo="[M] | Moderador" hex=#ffd200 | nome= "Admin" novo="[A] | Admin vis=false`
+> `$editarcargo nome="Moderador" novo="[M] Moderador" hex=#ffd200 | nome= "Admin" novo="[A] Admin" vis=false`

@@ -14,4 +14,4 @@
 > Para usar este comando, você deve ter permissão de **`Mute Members | Castigar Membros`**.
 
 ## Exemplo
-> `$unadv @user"`
+> `$unadv @user`
