@@ -53,5 +53,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Ban](ban.md)
 > * [Unban](unban.md)
 
+> * [Mute](mute.md)
+> * [Unmute](unmute.md)
+
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
