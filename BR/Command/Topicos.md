@@ -72,6 +72,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Choose](choose.md)
 
+> * [Count Letter](countletter.md)
+
 ### Comandos Secundários
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)

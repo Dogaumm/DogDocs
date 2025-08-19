@@ -1,7 +1,7 @@
 # Comando de Cifras
 
 ## Nome do comando
-> * **brainfuck**
+> **brainfuck**
 
 ## Descrição
 > Este comando consegue transformar e traduzir cifras/a linguagem de programação em Brainfuck.

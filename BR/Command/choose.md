@@ -1,7 +1,7 @@
 # Comando de Entretenimento
 
 ## Nome do comando
-> * **choose**
+> **choose**
 
 ## Descrição
 > Dê algumas opções para o bot escolher por você.
