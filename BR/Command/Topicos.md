@@ -41,7 +41,7 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Nome Servidor](nomeservidor.md)
 > * [Ícone Servidor](iconeservidor.md)
 
-> * [Tags Fórum](tagsforum.md)
+> * [Tags Forum](tagsforum.md)
 
 > * [Lock](lock.md)
 > * [Unlock](unlock.md)
