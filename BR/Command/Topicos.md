@@ -41,6 +41,8 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Nome Servidor](nomeservidor.md)
 > * [Ícone Servidor](iconeservidor.md)
 
+> * [Tags Fórum](tagsforum.md)
+
 > * [Lock](lock.md)
 > * [Unlock](unlock.md)
 
@@ -51,13 +53,15 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Kick](kick.md)
 > * [Ban](ban.md)
+> * [Hackban](hackban.md)
 > * [Ban Info](baninfo.md)
 > * [Unban](unban.md)
 
 > * [Mute](mute.md)
 > * [Unmute](unmute.md)
 
-> * [Tags Fórum](tagsforum.md)
+> * [Slowmode](slowmode.md)
+> * [Unslowmode](unslowmode.md)
 
 ### Comandos de Entretenimento
 > * [Color Preview](colorpreview.md)
@@ -76,6 +80,10 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 
 > * [Count Letter](countletter.md)
 
+> * [Slap](slap.md)
+> * [Hug](hug.md)
+> * [Kiss](kiss.md)
+
 ### Comandos Secundários
 > * [User Info](userinfo.md)
 > * [Server Info](serverinfo.md)
@@ -87,6 +95,10 @@ Bem-vindo à documentação dos comandos disponíveis no DogBot!
 > * [Ping](ping.md)
 
 > * [Traduzir](traduzir.md)
+
+> * [Avatar](avatar.md)
+
+> * [Backup Server](backupserver.md)
 
 ### Comandos de Cifras
 > * [Brainfuck](brainfuck.md)
